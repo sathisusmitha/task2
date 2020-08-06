@@ -1,0 +1,17 @@
+{
+	"card1":{
+		"name":"Susmitha",
+		"image":"girl.jpg",
+		"rollno":"570",
+		"button":"static resume"
+		
+	},
+	
+	"card2":{
+		"name":"Prashanthi",
+		"image":"girl.jpg",
+		"rollno":"432",
+		"button":"dynamic resume"
+
+	}
+}

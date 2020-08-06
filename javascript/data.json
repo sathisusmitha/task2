@@ -1,0 +1,51 @@
+{
+	"details":{
+		"name":"prashanthi",
+		"image":"girl.jpg",
+		"email":"prashanthi@gmail.com",
+		"number":"98767876567687",
+		"address":"kakinada"
+	},
+	"careerobjective":{
+		"info":"To become an IAS officer"
+	},
+	"educationalqualification":[
+
+
+		{
+
+			"institute":"vsm college",
+			"degree":"B.tech",
+			"passoutyear":"2018",
+			"percentage":"80%"
+		},
+		{
+			"institute":"narayana college",
+			"degree":"Intermediate",
+			"passoutyear":"2016",
+			"percentage":"90%"
+		},
+		{
+			"institute":"vivekanada school",
+			"degree":"SSC",
+			"passoutyear":"2015",
+			"percentage":"96%"
+		}
+
+	],
+
+	"techinicalskills":[
+		{
+	
+		"info":["C,C++,Java"]
+	}
+
+	],
+	"languagesknown":[
+		{
+	
+		"info1":["Telugu,Hindi,English"]
+	}
+
+	]
+}
